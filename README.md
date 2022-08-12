@@ -1,6 +1,6 @@
 ### Olá! Eu so o Pedro Lucas 🖐️
-
-- 📚 Estudando ADS 
+ 
+ 
 
 <div align="center">
   <a href="https://github.com/pedrolucas07">
