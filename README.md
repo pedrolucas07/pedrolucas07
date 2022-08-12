@@ -1,4 +1,4 @@
-### Olá! Eu so o Pedro Lucas
+### Olá! Eu so o Pedro Lucas 🖐️
 
 - 📚 Estudando ADS 
 
